@@ -4,3 +4,4 @@
 1. Web scraper
 2. Store into HDFS
 3. Analysis etc.
+4. Documentation/blog
